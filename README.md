@@ -35,8 +35,6 @@ scrapyd-deploy -p spidermeizi -v 0.0.01 --build-egg=meizi.egg
 #### 在cmd端运行 scrapyd
 #### 本地启动scrapykeeper （相关代码可以在github上搜索）
 
-#![image](https://github.com/itzujun/fgupiao/blob/master/bmp/redis.png)
-
 ![image](./bmp/show-1.jpg)
 
 ![image](./bmp/show-2.jpg)
