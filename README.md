@@ -45,6 +45,8 @@ scrapyd-deploy -p spidermeizi -v 0.0.01 --build-egg=meizi.egg
 
 ![image](./bmp/show-5.jpg)
 
+![image](./bmp/show-6.jpg)
+
 
 
 
